@@ -5,10 +5,10 @@
 Anaconda - Python 3.7
 ### Algorithm:
 1. **Load Images**: Load two images of the same size.
-2. **Divide into Quadrants**: Split each image into four equal regions (R1-R4 for the first image, R5-R8 for the second image) using row and column coordinates.
+2. **Divide into Quadrants**: Split each image into four equal region using row and column coordinates.
 3. **Swap Regions**: Swap regions as follows: R1 with R8 and R2 with R7.
 4. **Merge Quadrants**: Reassemble the images with the swapped quadrants.
-5. **Resize**: Resize the final images to match the dimensions specified by the last four digits of your registration number, ensuring even numbers.
+5. **Resize**: Resize the final images to match the dimensions.
 ### Program:
 ```
 Developed By:KARTHIKEYAN R
